@@ -1,22 +1,39 @@
+<h1 align="center">Hi 👋, I'm EddieZhang</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Eddie.;I+love+open-source.;I+love+Sport.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
 </p>
 
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
+<p align="center">
+- ⚡ Fun fact "I am optimism"
+</p>
+<p align="center">
+- 💬 You can talk to me about "Java"
+</p>
+<p align="center">
+- 🌱 I’m currently learning "Back-end development"
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EddieZturbo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+- 📫 How to reach me "ZJH20001207@ICLOUD.COM"
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EddieZturbo&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieZturbo)](https://github.com/anuraghazra/github-readme-stats)
+
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=EddieZturbo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieZturbo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">		  
+  </a>
+</p>
+<br>
+
+
 

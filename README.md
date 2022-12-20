@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 
 -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/super_view.svg)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EddieZturbo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

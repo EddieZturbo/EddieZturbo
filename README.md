@@ -1,12 +1,11 @@
 <!--
-**EddieZturbo/EddieZturbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FranzKafkaYu/FranzKafkaYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
 -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-## ⚡ Platforms
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EddieZturbo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

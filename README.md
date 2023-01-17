@@ -35,8 +35,8 @@
 
 <br/>
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats/api?username=EddieZturbo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true">
-    <img width="49.5%" src="https://github-readme-stats/api/top-langs/?username=EddieZturbo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">		  
+    <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddieZturbo&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true">
+    <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EddieZturbo&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">		  
   </a>
 </p>
 <br>

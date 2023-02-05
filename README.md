@@ -19,7 +19,6 @@
 - 📫 How to reach me "ZJH20001207@ICLOUD.COM"
 </p>
 
-# <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="150" align="center">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

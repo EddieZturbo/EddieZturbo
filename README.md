@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/zjh20001207@icloud.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zjh20001207@icloud.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eddie-zjh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eddie-zjh" height="30" width="40" /></a>
-<a href="https://github.com/EddieZturbo/EddieZturbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eddie-zjh" height="30" width="40" /></a>
+<a href="https://github.com/EddieZturbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="eddie-zjh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

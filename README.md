@@ -9,7 +9,7 @@
 - ⚡ Fun fact "I am optimism"
 </p>
 <p align="center">
-- 💬 You can talk to me about "Java"
+- 💬 You can talk to me about "Java Backend-Dev"
 </p>
 <p align="center">
 - 🌱 I’m currently learning "Back-end development"

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EddieZhang</h1>
+<h1 align="center">Hello~ 👋, I'm EddieZhang</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Eddie.;I+love+open-source.;I+love+Sport.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
